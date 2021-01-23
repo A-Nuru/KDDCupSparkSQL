@@ -18,4 +18,11 @@ We recommend students install [Anaconda](https://www.continuum.io/downloads), a 
 The dataset used is the KDDCup dataset. KDDCup-99 is the data set used for The Third International Knowledge Discovery and Data Mining Tools Competition, which was held in conjunction with KDD-99, the Fifth International Conference on Knowledge Discovery and Data Mining. The competition task was to build a network intrusion detector, a predictive model capable of distinguishing between ‘bad’ connections, called intrusions or attacks, and ‘good’ normal connections. This database contains a standard set of data to be audited, which includes a wide variety of intrusions simulated in a military network environment. This dataset has 22 types of bad connections, namely; back, buffer_overflow, ftp_write, guess_passwd, imap, ipsweep, land, loadmodule, multihop, neptune, nmap, perl, phf, pod, portsweep, rootkit, satan, smurf, spy, teardrop, warezclient, warezmaster.
 
 The features are described [here](http://kdd.ics.uci.edu/databases/kddcup99/task.html)
-You can find more description about the dataset [here]http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html)
+You can find more description about the dataset [here](http://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html)
+
+
+# File Descriptions
+* KDDCupSparkSQL.ipynb - Spark SQL notebook
+* KDDCupSparkRDD.ipynb - Spark RDD notebook
+* readme.md - Readme file
+* license.txt - license file
